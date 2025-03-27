@@ -1,4 +1,4 @@
-# AExam
+# Exam
 
 ## 🚀 Full-Stack Project
 AExam is a full-stack application built with **Next.js** and **PostgreSQL**, featuring authentication, category management, products, user roles, and a cart system.
